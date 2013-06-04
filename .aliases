@@ -10,10 +10,6 @@ alias -- -="cd -"
 # List only directories
 alias lsd='ls -l | grep "^d"'
 
-# FANCYHANDS
-alias fh="cd ~/Sites/fancyhands"
-alias watch="./compilejs.sh"
-
 # programs
 alias sbl='open -a "Sublime Text 2"'
 # also/or do this:
