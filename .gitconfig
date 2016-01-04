@@ -5,6 +5,7 @@
     c = commit -am
     up = pull
     p = push
+    pom = push origin master
     s = status
     df = diff --color --color-words --abbrev
     lg = log --color --graph --pretty=format:'%Cblue%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
